@@ -15,6 +15,18 @@ draw = function(){
   }
 
   //🎯New Text Code Should Go Here 🡻
+  fill(0,13,255);
+  textSize(38);
+  text("Adelae",235,110);
+
+ fill(128,0,128);
+ textSize(29);
+ text("{my fav food}", 215, 150);
+
+ fill(166, 238, 144);
+ textSize(20);
+ text("🍦Ice Cream🍦", 235, 185);
+
 
 };
 
